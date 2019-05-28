@@ -1,6 +1,8 @@
 # 2nd-ML100days
 <br /><br />
+
 ## 1-資料清理數據前處理
+
 <br />
 D1：資料介紹與評估資料<br />
 D2：EDA-1/讀取資料EDA: Data summary<br />
@@ -19,7 +21,9 @@ D14：Subplots<br />
 D15：Heatmap & Grid-plot<br />
 D16：模型初體驗 Logistic Regression<br />
 <br /><br />
+
 ## 2-資料科學特徵工程技術
+
 <br />
 D17：特徵工程簡介<br />
 D18：特徵類型<br />
@@ -36,7 +40,9 @@ D28：特徵選擇<br />
 D29：特徵評估<br />
 D30：分類型特徵優化 - 葉編碼<br />
 <br /><br />
-## 機器學習基礎模型建立
+
+## 3-機器學習基礎模型建立
+
 <br /><br />
 D31：機器學習概論<br />
 D32：機器學習-流程與步驟<br />
