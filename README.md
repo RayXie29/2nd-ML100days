@@ -49,3 +49,4 @@ D38：regression model 程式碼撰寫<br />
 D39：regression model 介紹 - LASSO 回歸/ Ridge 回歸<br />
 D40：regression model 程式碼撰寫 <br />
 D41：tree based model - 決策樹 (Decision Tree) 模型介紹<br />
+D42：tree based model - 決策樹程式碼撰寫<br />
