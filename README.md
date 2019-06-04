@@ -57,3 +57,7 @@ D40：regression model 程式碼撰寫 <br />
 D41：tree based model - 決策樹 (Decision Tree) 模型介紹<br />
 D42：tree based model - 決策樹程式碼撰寫<br />
 D43：tree based model - 隨機森林 (Random Forest) 介紹<br />
+D44：tree based model - 隨機森林程式碼撰寫<br />
+D45：tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹 <br />
+D46：tree based model - 梯度提升機程式碼撰寫<br />
+D47：超參數調整與優化<br />
