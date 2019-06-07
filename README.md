@@ -63,3 +63,4 @@ D46：tree based model - 梯度提升機程式碼撰寫<br />
 D47：超參數調整與優化<br />
 D48：Kaggle 競賽平台介紹<br />
 D49：集成方法 : 混合泛化(Blending) <br />
+D50：集成方法 : 堆疊泛化(Stacking) <br />
