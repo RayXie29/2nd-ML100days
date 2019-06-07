@@ -61,3 +61,4 @@ D44：tree based model - 隨機森林程式碼撰寫<br />
 D45：tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹 <br />
 D46：tree based model - 梯度提升機程式碼撰寫<br />
 D47：超參數調整與優化<br />
+D48：Kaggle 競賽平台介紹<br />
