@@ -64,3 +64,15 @@ D47：超參數調整與優化<br />
 D48：Kaggle 競賽平台介紹<br />
 D49：集成方法 : 混合泛化(Blending) <br />
 D50：集成方法 : 堆疊泛化(Stacking) <br />
+D51-D53 : Mid-term exam : Kaggle competition - Coupon usage prediction <br />
+D54：clustering 1 非監督式機器學習簡介 <br />
+D55：clustering 2 聚類算法 <br />
+D56：K-mean 觀察 : 使用輪廓分析 <br />
+D57：clustering 3 階層分群算法 <br />
+D58：階層分群法 觀察 : 使用 2D 樣版資料集 <br />
+D59：dimension reduction 1 降維方法-主成份分析 <br />
+D60：PCA 觀察 : 使用手寫辨識資料集 <br />
+D61：dimension reduction 2 降維方法-T-SNE <br />
+D62：t-sne 觀察 : 分群與流形還原 <br />
+
+
